@@ -11,6 +11,7 @@ public class task_3 {
         String operation = inConsole.next();
         System.out.print("Введите вторую операнду: ");
         int b = Integer.parseInt(inConsole.next());
+        inConsole.close();
         switch(operation) {
             case "+":
                 System.out.printf("%d %s %d = %d", a, operation, b, a + b);

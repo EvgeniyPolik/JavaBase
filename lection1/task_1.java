@@ -8,6 +8,7 @@ class task_1 {
         Scanner inConsole = new Scanner(System.in);
         System.out.print("Введите число n: ");
         int n = inConsole.nextInt();
+        inConsole.close();
         int s = ((1 + n) * n) / 2;
         System.out.printf("Сумма чисел от 1 до %d, равна: %d\n", n, s);
         int factorial = 1;

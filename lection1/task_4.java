@@ -1,8 +1,6 @@
 package lection1;
 
 import java.util.Scanner;
-import java.util.function.BiFunction;
-import java.util.function.Function;
 import java.lang.FunctionalInterface;
 
 
@@ -15,6 +13,7 @@ public class task_4 {
         Scanner inConsole = new Scanner(System.in);
         System.out.print("Введите уравнение (Без пробелов! Напр: 1?+??=46): ");
         String equation = inConsole.next();
+        inConsole.close();
         var ch = equation.toCharArray();
         Operate operate = (a, b) -> a + b;
         
