@@ -21,7 +21,7 @@ public class task_2 {
                 result.add(line);
                 line = reader.readLine();
             }
-          
+            reader.close();
         } catch (FileNotFoundException e) {
             System.out.print(e);
         }
