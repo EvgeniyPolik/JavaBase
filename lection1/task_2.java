@@ -1,3 +1,4 @@
+/* Вывести все простые числа от 1 до 1000*/
 package lection1;
 
 public class task_2 {

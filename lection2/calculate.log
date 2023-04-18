@@ -1,0 +1,8 @@
+апр. 17, 2023 10:12:11 AM lection2.task_3 main
+INFO: Введена первая операнда: 5
+апр. 17, 2023 10:12:14 AM lection2.task_3 main
+INFO: Выбранна операция: -
+апр. 17, 2023 10:12:17 AM lection2.task_3 main
+INFO: Введена вторая операнда: 2
+апр. 17, 2023 10:12:17 AM lection2.task_3 main
+WARNING: Подсчет выполнен: 5 - 2 = 3

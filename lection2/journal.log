@@ -1,0 +1,18 @@
+апр. 17, 2023 9:48:46 AM lection2.task_1 BubbleSort
+WARNING: Исходный массив: [2, 5, 1, 0, 6, 5, 9, 1]
+апр. 17, 2023 9:48:46 AM lection2.task_1 BubbleSort
+INFO: [2, 1, 0, 5, 5, 6, 1, 9]
+апр. 17, 2023 9:48:46 AM lection2.task_1 BubbleSort
+INFO: [1, 0, 2, 5, 5, 1, 6, 9]
+апр. 17, 2023 9:48:46 AM lection2.task_1 BubbleSort
+INFO: [0, 1, 2, 5, 1, 5, 6, 9]
+апр. 17, 2023 9:48:46 AM lection2.task_1 BubbleSort
+INFO: [0, 1, 2, 1, 5, 5, 6, 9]
+апр. 17, 2023 9:48:46 AM lection2.task_1 BubbleSort
+INFO: [0, 1, 1, 2, 5, 5, 6, 9]
+апр. 17, 2023 9:48:46 AM lection2.task_1 BubbleSort
+INFO: [0, 1, 1, 2, 5, 5, 6, 9]
+апр. 17, 2023 9:48:46 AM lection2.task_1 BubbleSort
+INFO: [0, 1, 1, 2, 5, 5, 6, 9]
+апр. 17, 2023 9:48:46 AM lection2.task_1 BubbleSort
+WARNING: Сортировка завершена, итоговый массив: [0, 1, 1, 2, 5, 5, 6, 9]
