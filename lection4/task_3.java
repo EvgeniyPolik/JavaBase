@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class task_3 {
 
-    @FunctionalInterface // Что-то аналогочиное делегитам, для использования лямбда-функций
+    @FunctionalInterface // Что-то аналогочиное делегатам, для использования лямбда-функций
     public interface Operate { 
         Double doIt(Double a, Double b);
     }
